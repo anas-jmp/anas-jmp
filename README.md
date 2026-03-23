@@ -26,7 +26,7 @@
 ---
 ## 👾 Contributions
 <img src="https://media.tenor.com/4TwQYaebKgIAAAAC/balls.gif" alt="Balls" width="100%">
-
+---
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
