@@ -1,11 +1,11 @@
-# Hi there <img src="https://media.tenor.com/awI2CqojdOwAAAAj/coffee-coffee-cup.gif" alt="Balls Animation" width="3%">
+# Hi there <img src="https://media.tenor.com/awI2CqojdOwAAAAj/coffee-coffee-cup.gif" alt="Balls Animation" width="7%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Cybersecurity;SOC+Analyst;Malware+Analysis;Reverse+Engineering" alt="Typing SVG" />
 
  
 <img src="https://media.tenor.com/cl2Xs1LDULsAAAAj/balls.gif" alt="Balls Animation" width="20%">
  
-# 🎯 About Me 
+# <img src="https://media.tenor.com/kyJFTroNngQAAAAi/coding.gif" alt="Balls Animation" width="3%">  About Me 
  
 ████████████████████████████████ 100% Security Focused
  
