@@ -1,17 +1,17 @@
 # Hi there 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Cybersecurity;Malware+Analysis;SOC+Analyst;Reverse+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Cybersecurity+Researcher;SOC+Analyst;Malware+Analysis;Reverse+Engineering" alt="Typing SVG" />
 
----
-
-## 🎯 About Me
-
-```
+ 
+<img src="https://media.tenor.com/cl2Xs1LDULsAAAAj/balls.gif" alt="Balls Animation" width="20%">
+ 
+# 🎯 About Me 
+ 
 ████████████████████████████████ 100% Security Focused
-```
+ 
 
-- 🔐 Cybersecurity & Malware Analysis
 - 🛡️ SOC Analyst
+- 🔐 Cybersecurity & Malware Analysis
 - 🔧 Reverse Engineering
 - 📊 Threat Intelligence
 
@@ -19,28 +19,24 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anas-jmp&show_icons=true&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=anas-jmp&show_icons=true&theme=dark" alt="Activity" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-jmp&theme=dark&hide_border=true&layout=compact)
+ 
 
----
-## 👾 Contributions
-<img src="https://media.tenor.com/4TwQYaebKgIAAAAC/balls.gif" alt="Balls" width="100%">
----
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif" alt="Balls 2" style="width: 50%;">
+</div>
+
+ 
+
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
----
 
-## 📊 Activity
 
-<img src="https://activity-graph.herokuapp.com/graph?username=anas-jmp&theme=dark-green" alt="Activity Graph" />
-
----
 
 ### Connect
 
@@ -49,4 +45,5 @@
 
 ---
 
-*Profile views: ![](https://komarev.com/ghpvc/?username=anas-jmp&color=green)*
+*![](https://komarev.com/ghpvc/?username=anas-jmp&color=green)*
+
