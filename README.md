@@ -26,7 +26,6 @@
 ---
 ## 👾 Contributions
 <img src="https://media.tenor.com/4TwQYaebKgIAAAAC/balls.gif" alt="Balls" width="100%">
----
 
 ## 🛠️ Tech Stack
 
