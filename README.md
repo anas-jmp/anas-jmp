@@ -11,6 +11,7 @@
 ```
 
 - 🔐 Cybersecurity & Malware Analysis
+- 🛡️ SOC Analyst
 - 🔧 Reverse Engineering
 - 📊 Threat Intelligence
 
