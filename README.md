@@ -25,10 +25,9 @@
 
 ---
 
-## 🐍 Contribution Graph
+## :space_invader: Contributions
 
-![snake gif](https://github.com/anas-jmp/anas-jmp/blob/output/github-contribution-grid-snake.gif)
-
+![Balls Animation](https://media.tenor.com/images/8240909689601347771
 ---
 
 ## 🛠️ Tech Stack
