@@ -24,10 +24,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anas-jmp&theme=dark&hide_border=true&layout=compact)
 
 ---
-
-## :space_invader: Contributions
-
-![Balls Animation](https://media.tenor.com/images/8240909689601347771
+## 👾 Contributions
+<img src="https://media.tenor.com/4TwQYaebKgIAAAAC/balls.gif" alt="Balls" width="100%">
 ---
 
 ## 🛠️ Tech Stack
