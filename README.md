@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.tenor.com/awI2CqojdOwAAAAj/coffee-coffee-cup.gif" alt="Balls Animation" width="3%">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Cybersecurity;SOC+Analyst;Malware+Analysis;Reverse+Engineering" alt="Typing SVG" />
 
